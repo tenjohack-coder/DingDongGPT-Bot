@@ -152,10 +152,9 @@ Returns AI response in selected language
 
 The system dynamically injects a language-locked system prompt:
 
-🇮🇩 
-🇺🇸 
-🇮🇳
-🇷🇺
+🇮🇩 Indonesian → Always reply in Indonesian
+
+🇺🇸 English → Always reply in English
 
 
 Prompt behavior can be customized via system-prompt.txt.
