@@ -183,7 +183,7 @@ After selection:
 🌐 Live Bot (Demo)
 
 You can test the bot here (if active):
-👉 https://t.me/Wormgpttested_bot
+👉 @Dingdon1bot
 
 
 ---
